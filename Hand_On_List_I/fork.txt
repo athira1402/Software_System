@@ -1,0 +1,5 @@
+Parents process with PID 5087 writing to fileChild process with PID 5088 writing to file
+Parents process with PID 5099 writing to file
+Child process with PID 5100 writing to file
+Parents process with PID 1303 writing to file
+Child process with PID 1304 writing to file
